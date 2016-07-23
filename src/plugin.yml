@@ -1,0 +1,4 @@
+name: NoBoot
+main: noBoot.Noboot
+version: 1.0
+commands:
